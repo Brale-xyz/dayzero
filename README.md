@@ -17,4 +17,4 @@ The conference follows a fixed format and files here are supporting materials fo
 ```
 
 ---
-*Day Zero is a community event focused on technical demonstrations and meaningful discussions. Conference format inspired by [V-Sum](https://v-sum.com)*
+*Day Zero is a community event focused on technical demonstrations and meaningful discussions. Credit for the format goes to [V-Sum](https://v-sum.com)*
