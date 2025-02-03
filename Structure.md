@@ -3,7 +3,7 @@ graph TD
     A[11:00AM - Intro - 5 minutes] --> B[Randomized meeting - 2 minutes]
     B --> C[Demo 1 - 10 Minutes]
     C --> D[Demo 2 - 10 Minutes]
-    D --> E[Demo 2 - 10 Minutes]
+    D --> E[Demo 3 - 10 Minutes]
     E --> F[11:45am - Breakouts!]
     
     F --> G[Breakout 1]
