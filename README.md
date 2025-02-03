@@ -12,8 +12,8 @@ The conference follows a fixed format and files here are supporting materials fo
 
 ```
 ├── Structure.md                 # Event structure and timing
-├── Presenter-expectations.md    # Guidelines for technical demos
-└── moderator-overview.md        # Best practices for breakout moderators
+├── Presenter-guidelines.md    # Guidelines for technical demos
+└── Moderator-guidelines.md        # Best practices for breakout moderators
 ```
 
 ---
