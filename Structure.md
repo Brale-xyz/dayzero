@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[11:00AM - Intro - 5 minutes] --> B[Randomized meeting - 2 minutes]
     B --> C[Demo 1 - 10 Minutes]
@@ -14,3 +15,4 @@ graph TD
     F --> M[Breakout 7]
     
     G & H & I & J & K & L & M --> N[12:30 - Outro - 5 minutes]
+```
