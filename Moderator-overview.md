@@ -39,7 +39,7 @@ Have 3-5 canned questions ready ahead of time in case there is a lull in the dis
 * If you're working through a company Q&A breakout, strongly encourage the conversation to flow to industry topics and even technical topics if you're comfortable. These absolutely do not need to be about founding stories
 * Your sessions will have people of diverse backgrounds which is why the intros are important
 * As the moderator all you've got to do is listen to who folks are and help them have a lively discussion
-* Breakouts are 55 minutes which will fly by. A counter will let you know when time is up
+* Breakouts are 50 minutes which will fly by. A counter will let you know when time is up
 * Note: The majority of attendees are male and this is something we'll need to work hard to balance out in the next one
 
 ## Issues and Support
