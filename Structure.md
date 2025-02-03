@@ -4,7 +4,7 @@ graph TD
     B --> C[Demo 1 - 10 Minutes]
     C --> D[Demo 2 - 10 Minutes]
     D --> E[Demo 3 - 10 Minutes]
-    E --> F[11:45am - Breakouts!]
+    E --> F[Breakouts!]
     
     F --> G[Breakout 1]
     F --> H[Breakout 2]
@@ -14,5 +14,5 @@ graph TD
     F --> L[Breakout 6]
     F --> M[Breakout 7]
     
-    G & H & I & J & K & L & M --> N[12:30 - Outro - 5 minutes]
+    G & H & I & J & K & L & M --> N[12:50 - Outro - 5 minutes]
 ```
