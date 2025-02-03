@@ -1,6 +1,6 @@
 # About Day Zero
 
-Day Zero is a virtual conference by [Brale](URL "https://brale.xyz"). You can apply to attend [Day Zero](URL "https://brale.xyz/events").
+Day Zero is a virtual conference by [Brale](https://brale.xyz). You can apply to attend [Day Zero](https://brale.xyz/events).
 
 The conference follows a fixed format and files here are supporting materials for the conference itself. They include:
 
