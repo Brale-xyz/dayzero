@@ -1,0 +1,39 @@
+{
+    "name": "Day Zero Token List",
+    "timestamp": "2025-03-03T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 8453,
+            "address": "0xcc18b41a0f63C67F17F23388c848aeC67b583422",
+            "name": "Day Zero Dollar",
+            "symbol": "DZUSD",
+            "decimals": 18,
+            "logoURI": "https://example.com/path/to/dzusd-logo.png",
+            "extensions": {
+                "website": "https://brale.xyz/events"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 7565164,
+            "address": "GjzwgGxhxa6VVVR8iFQ3QnzH89SNXxHgfY1xhCiSv5a8",
+            "name": "Day Zero Dollar",
+            "symbol": "DZUSD",
+            "decimals": 9,
+            "logoURI": "https://example.com/path/to/dzusd-logo.png",
+            "extensions": {
+                "website": "https://brale.xyz/events"
+            },
+            "tags": [
+                "stablecoin"
+            ]
+        }
+    ]
+}
