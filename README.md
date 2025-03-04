@@ -11,9 +11,10 @@ The conference follows a fixed format and files here are supporting materials fo
 ## File Structure
 
 ```
-├── Structure.md                 # Event structure and timing
+├── DZUSD/                     # DZUSD token files and resources
+├── Structure.md               # Event structure and timing
 ├── Presenter-guidelines.md    # Guidelines for technical demos
-└── Moderator-guidelines.md        # Best practices for breakout moderators
+└── Moderator-guidelines.md    # Best practices for breakout moderators
 ```
 
 ---
