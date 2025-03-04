@@ -13,7 +13,7 @@
             "name": "Day Zero Dollar",
             "symbol": "DZUSD",
             "decimals": 18,
-            "logoURI": "https://example.com/path/to/dzusd-logo.png",
+            "logoURI": "https://github.com/Brale-xyz/dayzero/blob/main/DZUSD/dzusd.png",
             "extensions": {
                 "website": "https://brale.xyz/events"
             },
@@ -27,7 +27,7 @@
             "name": "Day Zero Dollar",
             "symbol": "DZUSD",
             "decimals": 9,
-            "logoURI": "https://example.com/path/to/dzusd-logo.png",
+            "logoURI": "https://github.com/Brale-xyz/dayzero/blob/main/DZUSD/dzusd.png",
             "extensions": {
                 "website": "https://brale.xyz/events"
             },
