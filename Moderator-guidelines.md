@@ -1,5 +1,7 @@
 # Day Zero Moderator Overview
 
+Please review the format for Day Zero Events here: https://github.com/Brale-xyz/dayzero/blob/main/The-Format.md
+
 A great moderator respectfully keeps the conversation flowing and gives everyone an opportunity to share their point of view. To have the most robust discussions possible here is how we'd suggest running a session and the norms to follow.
 
 As soon as you're convinced the majority of attendees are in your session please announce yourself as the moderator and go over some housekeeping items.
