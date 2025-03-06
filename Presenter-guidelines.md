@@ -1,7 +1,5 @@
 # Day Zero Presenter Overview
 
-# The Format: Day Zero Events
-
 Day Zero events are short. Our events run on time and are two hours end to end. Events are comprised of two core parts, technical briefings and breakout sessions. Events are held normally 4-6 weeks apart with specific conduct expectations.
 
 Events are hosted on Zoom and limited to 100 participants. Attendees are either nominated by existing attendees or apply to attend.
