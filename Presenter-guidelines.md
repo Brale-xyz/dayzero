@@ -6,7 +6,7 @@ Events are hosted on Zoom and limited to 100 participants. Attendees are either 
 
 ## Part 1 – Technical Briefings
 
-Each Day Zero event has 3 technical briefings. Each technical briefing is done by the company (normally founder, inventor, or product manager) and is an actual demonstration of the technology. Presenters don't use slides. Instead they are encouraged to show live examples of their software. Technical briefings are recorded. Technical briefings are typically 15 minutes each and are presented to all attendees.
+Each Day Zero event has 3 technical briefings. Each technical briefing is done by the company (normally founder, inventor, or product manager) and is an actual demonstration of the technology. Presenters don't use slides. Instead they are encouraged to show live examples of their software. Technical briefings are recorded. Technical briefings are 10 minutes each and are presented to all attendees.
 
 ### What this means for you:
 
