@@ -5,7 +5,7 @@ graph TD
     C --> D[Demo 2 - 10 Minutes]
     D --> E[Demo 3 - 10 Minutes]
     E --> E[Demo 3 - 10 Minutes]
-    F --> F[Workshops!]
+    F --> G[Workshops!]
     
     G --> H[Workshop 1]
     G --> I[Workshop 2]
