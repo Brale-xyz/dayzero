@@ -2,7 +2,7 @@
 
 Day Zero events are short. Our events run on time and are two hours end to end. Events are comprised of two core parts, technical demos and workshop sessions. Events are held normally 4-6 weeks apart with specific conduct expectations.
 
-Events are hosted on Zoom and are free to attend. Demos are open to everyone and recordings are shared after the event. Registration is required. Workshops are application only. Applications are sumbmitted as a component of the main registration form. Workshop participants are hand-selected. 
+Events are hosted on Zoom and are free with 100+ people typially in attendace. Demos are open to everyone and recordings are shared after the event. Registration is required. Workshops are application only. Applications are sumbmitted as a component of the main registration form. Workshop participants are hand-selected. 
 
 ## Welcome and Opening Remarks
 
