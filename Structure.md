@@ -6,13 +6,11 @@ graph TD
     D --> E[Demo 3 - 10 Minutes]
     E --> F[Breakouts!]
     
-    F --> G[Breakout 1]
-    F --> H[Breakout 2]
-    F --> I[Breakout 3]
-    F --> J[Breakout 4]
-    F --> K[Breakout 5]
-    F --> L[Breakout 6]
-    F --> M[Breakout 7]
+    F --> G[Workshop 1]
+    F --> H[Workshop 2]
+    F --> I[Workshop 3]
+    F --> J[Workshop 4]
+    F --> K[Workshop 5]
     
     G & H & I & J & K & L & M --> N[12:50 - Outro - 5 minutes]
 ```
