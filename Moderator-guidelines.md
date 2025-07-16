@@ -21,7 +21,7 @@ Once housekeeping is out of the way ask for a round of introductions. As the mod
 
 ### Workshop Format
 
-Workshop formats will differ based on the content and the leader. The format should be established and agreed upon by the leader and moderator before the event. Formats may be include more detailed demonstrations or extensions of the primary event demo, prototyping, discussion, other, and hypbrid.
+Workshop formats will differ based on the content and the leader. The format should be established and agreed upon by the leader and moderator before the event. Formats may be include more detailed demonstrations or extensions of the primary event demo, prototyping, AMA, discussion, other, and hybrid.
 
 Important topics and questions may have surfanced via the email introductions in the days preceeding the event. Remember to that is at your disposal.
 
