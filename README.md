@@ -11,9 +11,17 @@ The conference follows a fixed format and files here are supporting materials fo
 ## File Structure
 
 ```
-├── Structure.md                 # Event structure and timing
-├── Presenter-guidelines.md    # Guidelines for technical demos
-└── Moderator-guidelines.md        # Best practices for breakout moderators
+## File Structure
+
+├── DZUSD/                           # DZUSD token resources
+│   ├── About-DZUSD.md               # DZUSD documentation
+│   ├── dzusd-tokenlist.json         # Token list configuration
+│   └── dzusd.png                    # Token icon/logo
+├── Structure.md                     # Event structure and timing
+├── Presenter-guidelines.md          # Guidelines for technical demos
+├── Moderator-guidelines.md          # Best practices for breakout moderators
+├── README.md                        # Main documentation
+└── LICENSE                          # License information
 ```
 
 ---

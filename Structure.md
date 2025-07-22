@@ -4,15 +4,14 @@ graph TD
     B --> C[Demo 1 - 10 Minutes]
     C --> D[Demo 2 - 10 Minutes]
     D --> E[Demo 3 - 10 Minutes]
-    E --> F[Breakouts!]
+    E --> F[Demo Attendee Outro - 5 Minutes]
+    F --> G[Workshops!]
     
-    F --> G[Breakout 1]
-    F --> H[Breakout 2]
-    F --> I[Breakout 3]
-    F --> J[Breakout 4]
-    F --> K[Breakout 5]
-    F --> L[Breakout 6]
-    F --> M[Breakout 7]
+    G --> H[Workshop 1]
+    G --> I[Workshop 2]
+    G --> J[Workshop 3]
+    G --> K[Workshop 4]
+    G --> L[Workshop 5]
     
-    G & H & I & J & K & L & M --> N[12:50 - Outro - 5 minutes]
+    H & I & J & K & L --> N[12:50 - Outro - 5 minutes]
 ```
