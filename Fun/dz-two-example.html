@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DZUSD Logo Screensaver</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background-color: #F5F5F5;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+        .logo-container {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+        }
+        .logo {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+    </style>
+</head>
+<body>
+    <div class="logo-container" id="logoContainer">
+        <img src="https://brale.xyz/assets/stablecoins/dzusd-logo.svg" alt="DZUSD Logo" class="logo">
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const logoContainer = document.getElementById('logoContainer');
+            const maxX = window.innerWidth - logoContainer.offsetWidth;
+            const maxY = window.innerHeight - logoContainer.offsetHeight;
+            // Starting position
+            let x = Math.random() * maxX;
+            let y = Math.random() * maxY;
+            // Starting velocity (pixels per frame)
+            let vx = 2;
+            let vy = 2;
+            function animate() {
+                // Update position
+                x += vx;
+                y += vy;
+                // Bounce off the walls
+                if (x <= 0 || x >= maxX) {
+                    vx = -vx;
+                    x = x <= 0 ? 0 : maxX;
+                }
+                if (y <= 0 || y >= maxY) {
+                    vy = -vy;
+                    y = y <= 0 ? 0 : maxY;
+                }
+                // Apply the position
+                logoContainer.style.left = `${x}px`;
+                logoContainer.style.top = `${y}px`;
+                // Continue animation
+                requestAnimationFrame(animate);
+            }
+            // Handle window resize
+            window.addEventListener('resize', () => {
+                const newMaxX = window.innerWidth - logoContainer.offsetWidth;
+                const newMaxY = window.innerHeight - logoContainer.offsetHeight;
+                // Adjust position if needed
+                x = Math.min(x, newMaxX);
+                y = Math.min(y, newMaxY);
+                // Update max boundaries
+                maxX = newMaxX;
+                maxY = newMaxY;
+            });
+            // Start animation
+            animate();
+        });
+    </script>
+</body>
+</html>
