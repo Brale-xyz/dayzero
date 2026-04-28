@@ -1,12 +1,12 @@
 # Day Zero Presenter Overview
 
-Day Zero events are short. Our events run on time and are two hours end to end. Events are comprised of two core parts, technical demos and workshop sessions. Events are held normally 4-6 weeks apart with specific conduct expectations.
+Day Zero events are short. Our events run on time and are two hours end to end. Events are comprised of two core parts, technical demos and breakout sessions. Events are held normally 4-6 weeks apart with specific conduct expectations.
 
-Events are hosted on Zoom and are free with 100+ people typially in attendace. Demos are open to everyone and recordings are shared after the event. Registration is required. Workshops are application only. Applications are sumbmitted as a component of the main registration form. Workshop participants are hand-selected. 
+Events are hosted on Zoom and are free with 100+ people typially in attendace. Demos are open to everyone and recordings are shared after the event. Registration is required. Breakouts are application only. Applications are sumbmitted as a component of the main registration form. Breakout participants are hand-selected. 
 
 ## Part 1 – Technical Briefings
 
-Each Day Zero event has 3-5 technical demos. Each technical demo is done by the company (normally founder, inventor, or product manager) and is an actual demonstration of the technology. Presenters don't use slides. Instead they are encouraged to show live examples of their software. Technical demos are recorded. Technical demos are 10 minutes each and are presented to all attendees. After demos, the event will condlucde for Day Zero attendees who aren't participating in workshops. This will be ~ the 1 hour mark.
+Each Day Zero event has 3-5 technical demos. Each technical demo is done by the company (normally founder, inventor, or product manager) and is an actual demonstration of the technology. Presenters don't use slides. Instead they are encouraged to show live examples of their software. Technical demos are recorded. Technical demos are 10 minutes each and are presented to all attendees. After demos, the event will condlucde for Day Zero attendees who aren't participating in breakouts. This will be ~ the 1 hour mark.
 
 ### What this means for you:
 
